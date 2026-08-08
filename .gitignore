@@ -1,0 +1,8 @@
+# Secrets — never commit these
+.env
+
+# Build output
+/discord-bot
+/bin/
+
+.DS_Store
